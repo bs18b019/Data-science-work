@@ -22,3 +22,5 @@ A model to predict the weather loan of person should get approved or not based o
 Firstly, I cleaned the data, then I used some Exploratory data analysis technique to get the better understating of data, then I crated some new feature which might be useful for model building, then I used several algorithms to predict the output, The algorithms are Random Forest, KNN, and Xgboost.
 
 The detailed work can be found here- https://colab.research.google.com/drive/1siEhcPG4MhZN82rF9THcECcxWAT1ZEJE
+
+### Analytics Competition about 2020 Kaggle Machine Learning & Data Science Survey
