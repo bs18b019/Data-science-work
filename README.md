@@ -13,7 +13,7 @@ The more about competition can be found here- https://www.kaggle.com/c/acea-wate
 #### Overview of project-
 This competition has total 9 different csv file, and all of them contain time series data from 1998 to 2006, Theses data set have lots of missing value so Firstly I cleaned the missing data then I performed some EDA and feature engineering technique (This competition is more and more about data analysis task so I did most of my work in data visualization and Exploratory data analysis) then I developed a Machine Learning Model to predict the output.
 The detailed work can be found here-
-https://colab.research.google.com/drive/1m0iK-jRLRCkiu1fI-r1VPtGWF67xM9gw#scrollTo=rtnKH_ieTbaI
+https://github.com/bs18b019/Data-science-work/blob/main/Acea_smart_Water_Analytic.ipynb
 
 
 ### Loan prediction- 
