@@ -23,4 +23,6 @@ Firstly, I cleaned the data, then I used some Exploratory data analysis techniqu
 
 The detailed work can be found here- https://colab.research.google.com/drive/1siEhcPG4MhZN82rF9THcECcxWAT1ZEJE
 
-### Analytics Competition about 2020 Kaggle Machine Learning & Data Science Survey
+#### spam filtering and sentiment analysis using NLP
+In this project I have done data cleaning, then visulaization of most frequence word using Word Cloud then I developed a model to classify whether 
+email is spam or not using GradientBoostingClassifier() (97% accuracy), then further did sentiment analysis of emails.
