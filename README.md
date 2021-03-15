@@ -28,3 +28,11 @@ In this project I have done data cleaning, then visulaization of most frequence 
 email is spam or not using GradientBoostingClassifier() (97% accuracy), then further did sentiment analysis of emails.
 project link- https://github.com/bs18b019/Data-science-work/blob/main/spam_email_filtering.ipynb
 
+### Making Nural netowrk model rom scratch
+
+In this project, I created a nural network model for binery classification, and I have also visualise the result that how increasing the hidden layer( fitting too complex model can lead to overfitting), and I have also tried some way to overcome from overfitting.
+####project link-  https://github.com/bs18b019/Data-science-work/blob/main/Nural_network_from_scratch.ipynb
+
+
+
+
