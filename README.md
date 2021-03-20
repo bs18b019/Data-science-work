@@ -33,6 +33,13 @@ project link- https://github.com/bs18b019/Data-science-work/blob/main/spam_email
 In this project, I created a nural network model for binery classification, and I have also visualise the result that how increasing the hidden layer( fitting too complex model can lead to overfitting), and I have also tried some way to overcome from overfitting.
 ####project link-  https://github.com/bs18b019/Data-science-work/blob/main/Nural_network_from_scratch.ipynb
 
+###  Building mobile price rance classifier Deep Nural network model using Keras
+
+In this project, I Developed a simple nural network model of two hidden layer, and I used  "relu" activation function for hidden layer and "softmax" activation function for output layer.
+project link- https://github.com/bs18b019/Data-science-work/blob/main/Mobile_price_range_classifier_using_Nural_etwork.ipynb
+
+
+
 
 
 
